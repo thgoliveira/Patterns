@@ -5,7 +5,7 @@ import com.example.patterns.creational.abstractFactory.factory.PedidoFactory;
 import com.example.patterns.creational.abstractFactory.factory.PedidoFestaFactory;
 import com.example.patterns.creational.abstractFactory.factory.PedidoSimplesFactory;
 
-public class PadariaTest {
+public class AbstractFactoryTest {
 
     private static Padaria montarPedido(final String tipo) {
         PedidoFactory pf = null;

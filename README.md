@@ -18,3 +18,5 @@
  * `Exemplo de uma fábrica abstrata:`
 
  <img src="src/main/resources/imgs/absFactory.png">
+
+teste1
